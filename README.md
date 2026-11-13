@@ -16,25 +16,27 @@
 
 Tengo 18 años y estudio **Ingeniería en Informática y Sistemas** en la Universidad Nacional Jorge Basadre Grohmann (UNJBG). Me interesan la **inteligencia artificial** y la **Ingeniería de Software**, además de explorar cómo estas áreas pueden relacionarse con el diseño para convertir ideas en propuestas útiles y visuales. Disfruto aprendiendo y experimentando con herramientas digitales.
 
-## Diseño gráfico
+## Lo que me interesa
 
-| Herramienta | Experiencia |
-|:--|:--|
-| Adobe Photoshop | Edición y composición de imágenes |
-| Adobe InDesign | Diseño y maquetación editorial |
-| Adobe Animate | Animación y contenido multimedia |
+<div align="center">
+  <img src="./assets/intereses.svg" alt="Ilustración de mis intereses: inteligencia artificial, ingeniería de software y diseño gráfico" width="820" />
+</div>
+
+## Diseño gráfico
 
 [![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
 [![Animate](https://img.shields.io/badge/Adobe-Animate-FF4B00?style=flat-square&logo=adobeanimate&logoColor=white)](https://www.adobe.com/products/animate.html)
 
+Me gusta la **edición y composición visual**, la **maquetación editorial** y la **animación**.
+
 ## Idiomas
 
-🇵🇪 **Español** · nativo &nbsp;&nbsp; 🇬🇧 **Inglés** · intermedio
+🇵🇪 **Español** · nativo · 🇬🇧 **Inglés** · intermedio
 
 ## Música que me acompaña 🎧
 
-Me apasiona la música electrónica y el pop rock. En mi playlist encontrarás a **Alan Walker** y canciones como *Faded*, *Wake Me Up* y *Adventure of a Lifetime*.
+Me apasionan la música electrónica y el pop rock. Suelo escuchar a **Alan Walker** (*Faded*), **Avicii** (*Wake Me Up*) y **Coldplay** (*Adventure of a Lifetime*).
 
 ## Cuando se va el internet… 🦖
 

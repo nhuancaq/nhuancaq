@@ -1,47 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
-  <title id="title">Dinosaurio sin conexión</title>
-  <desc id="desc">Un dinosaurio verde estilo pixel art espera en un paisaje nocturno, junto a un símbolo de conexión interrumpida.</desc>
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101b35"/>
-      <stop offset="1" stop-color="#182b46"/>
-    </linearGradient>
-    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#203b4e"/>
-      <stop offset="1" stop-color="#132438"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#8eb9c5" stroke-opacity=".075" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="960" height="300" rx="24" fill="url(#sky)"/>
-  <rect width="960" height="300" rx="24" fill="url(#grid)"/>
-  <circle cx="790" cy="75" r="32" fill="#f9d976" opacity=".95"/>
-  <circle cx="802" cy="64" r="31" fill="#101b35"/>
-  <g fill="#e6f4f1" opacity=".8">
-    <circle cx="126" cy="65" r="2"/><circle cx="245" cy="46" r="2"/><circle cx="360" cy="83" r="2"/>
-    <circle cx="547" cy="48" r="2"/><circle cx="660" cy="99" r="2"/><circle cx="888" cy="105" r="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="340" viewBox="0 0 1040 340" role="img" aria-labelledby="title desc">
+  <title id="title">El juego del dinosaurio sin conexión</title>
+  <desc id="desc">Ilustración inspirada en el juego sin conexión de Chrome: un dinosaurio corre hacia un cactus bajo las nubes y el marcador indica una puntuación.</desc>
+  <rect x="2" y="2" width="1036" height="336" rx="18" fill="#fff" stroke="#e4e7eb" stroke-width="3"/>
+  <g fill="#616161" font-family="monospace" font-size="21" font-weight="700" letter-spacing="1">
+    <text x="734" y="71">HI 00078</text>
+    <text x="867" y="71">00152</text>
   </g>
-  <path d="M0 219q130-31 260 0t260 0 260 0 180 0v81H0z" fill="url(#ground)"/>
-  <path d="M0 234q130-27 260 0t260 0 260 0 180 0" fill="none" stroke="#53d5bd" stroke-opacity=".6" stroke-width="2"/>
-  <path d="M0 253h960" stroke="#9dbcc3" stroke-opacity=".2" stroke-dasharray="5 11"/>
-  <g fill="#7ee0bd">
-    <rect x="112" y="188" width="22" height="30"/><rect x="134" y="166" width="44" height="52"/>
-    <rect x="156" y="144" width="66" height="74"/><rect x="178" y="122" width="66" height="52"/>
-    <rect x="222" y="144" width="44" height="52"/><rect x="244" y="166" width="22" height="30"/>
-    <rect x="200" y="100" width="44" height="22"/>
-    <rect x="156" y="196" width="22" height="34" fill="#59bfa7"/><rect x="222" y="196" width="22" height="34" fill="#59bfa7"/>
+  <g fill="none" stroke="#d7dce0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M370 132c0-10 8-17 18-17 6-11 23-12 31-2 12-4 25 5 25 18z"/>
+    <path d="M567 119c0-9 8-15 17-15 6-10 21-10 28-2 11-4 22 4 22 17z"/>
   </g>
-  <rect x="222" y="134" width="10" height="10" fill="#14253b"/>
-  <path d="M110 195l-22 14 24 5" fill="none" stroke="#7ee0bd" stroke-width="9" stroke-linejoin="square"/>
-  <g transform="translate(560 130)" fill="none" stroke="#e8f4ef" stroke-linecap="round" stroke-width="6">
-    <path d="M-22-10a32 32 0 0 1 44 0M-12 0a17 17 0 0 1 24 0M-3 10a5 5 0 0 1 6 0" opacity=".75"/>
-    <path d="M-33 23L33-23" stroke="#ffcb70" stroke-width="8"/>
+  <!-- Pixel-style runner -->
+  <g fill="#535353">
+    <path d="M122 198h15v-20h15v-20h31v-8h16v9h-10v8h-19v20h-16v21h-16v18h-15z"/>
+    <path d="M122 211h15v17h-12l-8-7v-10z"/>
+    <path d="M151 216h15v14h-15z"/>
+    <path d="M137 230h16v9h-21v-5z"/>
+    <path d="M165 225h16v9h-20v-5z"/>
+    <rect x="177" y="160" width="6" height="6" fill="#fff"/>
+    <path d="M185 174h14v4h-14z"/>
+    <!-- Cactus -->
+    <path d="M776 190h10v-24h8v-21h10v21h8v24h10v-11h-7v-17h10v-8h9v8h7v26h-9v12h-46v-12h-10z"/>
+    <path d="M782 202h57v9h-57z"/>
   </g>
-  <text x="620" y="137" fill="#e6f4f1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" letter-spacing="2">OFFLINE</text>
-  <text x="620" y="164" fill="#9bb4c2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">reconnecting to the internet…</text>
-  <rect x="620" y="183" width="190" height="6" rx="3" fill="#294157"/>
-  <rect x="620" y="183" width="72" height="6" rx="3" fill="#53d5bd"/>
-  <text x="620" y="209" fill="#7ee0bd" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">[ waiting patiently ]</text>
-  <text x="898" y="278" text-anchor="end" fill="#8ca6b3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">NATALIA'S LITTLE OFFLINE CORNER</text>
+  <path d="M64 232H976" stroke="#626262" stroke-width="3"/>
+  <path d="M88 238h18m38 0h8m53 0h15m36 0h9m45 0h14m39 0h10m54 0h17m31 0h8m48 0h13m34 0h15m45 0h10m52 0h16m30 0h13m49 0h8m44 0h16m40 0h11m31 0h18m38 0h9m35 0h16" stroke="#a8a8a8" stroke-width="3" stroke-dasharray="4 8"/>
+  <path d="M64 300H976" stroke="#eceeef" stroke-width="2"/>
 </svg>

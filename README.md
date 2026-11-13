@@ -1,10 +1,12 @@
 <div align="center">
 
+  <img src="./assets/portada-natalia.svg" alt="Ilustración de presentación de Natalia Huanca, estudiante y creativa digital" width="820" />
+
 # ¡Hola! Soy Natalia Lizeth Huanca Quispe 👋
 
 ### Estudiante de Ingeniería en Informática y Sistemas · UNJBG
 
-📍 Tacna, Perú &nbsp; · &nbsp; 💻 Explorando tecnología y creatividad
+📍 Tacna, Perú · 💻 Explorando tecnología y creatividad
 
 </div>
 
@@ -22,6 +24,10 @@ Tengo 18 años y estudio **Ingeniería en Informática y Sistemas** en la Univer
 | Adobe InDesign | Diseño y maquetación editorial |
 | Adobe Animate | Animación y contenido multimedia |
 
+[![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![InDesign](https://img.shields.io/badge/Adobe-InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
+[![Animate](https://img.shields.io/badge/Adobe-Animate-FF4B00?style=flat-square&logo=adobeanimate&logoColor=white)](https://www.adobe.com/products/animate.html)
+
 ## Idiomas
 
 🇵🇪 **Español** · nativo &nbsp;&nbsp; 🇬🇧 **Inglés** · intermedio
@@ -32,8 +38,10 @@ Me apasiona la música electrónica y el pop rock. En mi playlist encontrarás a
 
 ## Cuando se va el internet… 🦖
 
+Una versión ilustrada de la clásica pantalla del juego del dinosaurio de Chrome:
+
 <div align="center">
-  <img src="./assets/dino-offline.svg" alt="Un dinosaurio pixelado cruza un paisaje nocturno mientras espera que vuelva internet" width="720" />
+  <img src="./assets/dino-offline.svg" alt="Pantalla del juego del dinosaurio de Chrome: dinosaurio, cactus, nubes y marcador de puntos" width="820" />
 </div>
 
 <div align="center">

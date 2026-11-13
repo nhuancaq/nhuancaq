@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="300" viewBox="0 0 1040 300" role="img" aria-labelledby="title desc">
+  <title id="title">Natalia Huanca — creatividad y tecnología</title>
+  <desc id="desc">Portada con formas abstractas, un cursor y una paleta de colores en tonos violeta, rosa y turquesa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151b3b"/>
+      <stop offset=".55" stop-color="#392a65"/>
+      <stop offset="1" stop-color="#754372"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb5a7"/>
+      <stop offset="1" stop-color="#f28ac0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1040" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="925" cy="65" r="110" fill="#86e6d2" opacity=".13"/>
+  <circle cx="963" cy="265" r="145" fill="#c79bf4" opacity=".17"/>
+  <circle cx="68" cy="277" r="130" fill="#f28ac0" opacity=".12"/>
+  <path d="M660 0c-27 47-20 87 21 118 41 31 45 66 11 105-20 23-26 48-19 77h367V0z" fill="#fff" opacity=".045"/>
+  <g transform="translate(748 77)">
+    <rect width="202" height="145" rx="22" fill="#171c37" stroke="#ffffff" stroke-opacity=".25" stroke-width="2"/>
+    <rect x="18" y="18" width="166" height="109" rx="13" fill="#f5f1ff"/>
+    <circle cx="45" cy="43" r="13" fill="#f28ac0"/>
+    <path d="M69 35h92M69 47h63" stroke="#9c8fb8" stroke-width="6" stroke-linecap="round"/>
+    <rect x="36" y="68" width="61" height="43" rx="8" fill="#a38be3"/>
+    <rect x="108" y="68" width="55" height="8" rx="4" fill="#b2a9c8"/>
+    <rect x="108" y="83" width="45" height="8" rx="4" fill="#b2a9c8"/>
+    <rect x="108" y="98" width="35" height="8" rx="4" fill="#b2a9c8"/>
+    <path d="M83 145h36l11 20H72z" fill="#d7c7ee"/>
+    <rect x="59" y="163" width="84" height="9" rx="4.5" fill="#f3eaff"/>
+  </g>
+  <g transform="translate(930 70) rotate(18)">
+    <circle r="31" fill="url(#orb)"/>
+    <path d="M-8-15L11 0 2 2 11 14 6 17-2 5-8 12z" fill="#fff" stroke="#70436e" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g fill="#fff" opacity=".8"><circle cx="708" cy="50" r="3"/><circle cx="975" cy="204" r="4"/><circle cx="700" cy="251" r="2"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#fff">
+    <text x="76" y="108" font-size="17" font-weight="600" letter-spacing="4" fill="#aeeadd">TECNOLOGÍA · DISEÑO · CREATIVIDAD</text>
+    <text x="72" y="169" font-size="43" font-weight="700">Ideas con un toque</text>
+    <text x="72" y="219" font-size="43" font-weight="700" fill="#ffb5d8">de imaginación.</text>
+    <text x="76" y="257" font-size="16" fill="#e0d8f0">Estudiante de Ingeniería en Informática y Sistemas · Tacna, Perú</text>
+  </g>
+  <path d="M72 125h43" stroke="#ffb5a7" stroke-width="3" stroke-linecap="round"/>
+</svg>

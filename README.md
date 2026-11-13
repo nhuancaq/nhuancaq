@@ -6,7 +6,7 @@
 
 ### Estudiante de Ingeniería en Informática y Sistemas · UNJBG
 
-📍 Tacna, Perú · 🤖 Interés en inteligencia artificial · 🎨 Diseño gráfico
+📍 Tacna, Perú · 🤖 Inteligencia artificial · 🧩 Ingeniería de Software · 🎨 Diseño gráfico
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Un poco sobre mí
 
-Tengo 18 años y estudio **Ingeniería en Informática y Sistemas** en la Universidad Nacional Jorge Basadre Grohmann (UNJBG). Me interesa la **inteligencia artificial** y cómo puede integrarse con el diseño para explorar ideas y crear propuestas visuales. Disfruto aprendiendo y experimentando con herramientas digitales.
+Tengo 18 años y estudio **Ingeniería en Informática y Sistemas** en la Universidad Nacional Jorge Basadre Grohmann (UNJBG). Me interesan la **inteligencia artificial** y la **Ingeniería de Software**, además de explorar cómo estas áreas pueden relacionarse con el diseño para convertir ideas en propuestas útiles y visuales. Disfruto aprendiendo y experimentando con herramientas digitales.
 
 ## Diseño gráfico
 
